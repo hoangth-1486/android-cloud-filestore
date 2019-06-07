@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809147233991",
+    "firebase_url": "https://chatfilestore.firebaseio.com",
+    "project_id": "chatfilestore",
+    "storage_bucket": "chatfilestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809147233991:android:d7164857126b3e50",
+        "android_client_info": {
+          "package_name": "com.hoang.firebase.chatfilestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809147233991-etm4t66vn91dtcq3e4e3v9je84qjiqdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoang.firebase.chatfilestore",
+            "certificate_hash": "536cb7da2cd3858e38cc5a24ca222912e44c05f0"
+          }
+        },
+        {
+          "client_id": "809147233991-1enq2ij6phqu26u56jg7v3kpfke7giov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYzgSbn9hi7lVpvBBouIW0SrzEkNsGAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809147233991-1enq2ij6phqu26u56jg7v3kpfke7giov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
